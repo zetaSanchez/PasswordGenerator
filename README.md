@@ -1,4 +1,26 @@
-# PasswordGenerator
+# Password Generator
+
+This is a simple, user-friendly, and intuitive password generator built with Angular. It helps users create secure and unique passwords by allowing customization and providing security tips.
+
+## Features
+
+- **Security**: This password generator uses strong encryption protocols and does not store generated passwords to ensure privacy and security.
+- **Customization**: Users can customize the generated passwords by adjusting the length, inclusion of special characters, and the combination of uppercase and lowercase letters.
+- **Ease of use**: Designed to be easily understood and used by both tech-savvy and non-tech-savvy users.
+- **Variety**: Capable of generating unique and diverse random passwords, avoiding repetitive or predictable patterns.
+- **Security tips**: Provides users with security tips to help them create secure passwords and avoid common mistakes.
+
+## Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/zetaSanchez/PasswordGenerator.git
+
+
+
+
+#PasswordGenerator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
