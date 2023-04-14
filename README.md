@@ -1,7 +1,6 @@
-# PasswordGenerator
-Password-Generator
 
-# Password Generator
+
+✅ # Password Generator
 
 This is a simple, user-friendly, and intuitive password generator built with Angular. It helps users create secure and unique passwords by allowing customization and providing security tips.
 
